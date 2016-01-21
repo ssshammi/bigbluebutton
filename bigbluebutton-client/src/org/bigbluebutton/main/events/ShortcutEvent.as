@@ -100,6 +100,8 @@ package org.bigbluebutton.main.events {
 		public static const SC_REPOST_POLL:String = 'SC_REPOST_POLL';
 		public static const SC_STOP_POLL:String = 'SC_STOP_POLL';
 		
+		public static const VIDEODOCK_CLOSE_ALL_CAMS:String = 'VIDEODOCK_CLOSE_ALL_CAMS';
+		
 		// Temporary string to help fix chat message navigation for screen readers
 		public static const CHAT_DEBUG:String = 'CHAT_DEBUG';
 		
